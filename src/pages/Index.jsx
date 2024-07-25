@@ -22,7 +22,7 @@ const Index = () => {
         <Button>Click me</Button>
       </main>
 
-      <footer className="bg-gray-200 p-4 text-center">
+      <footer className="bg-red-600 text-white p-4 text-center">
         <p>&copy; 2023 My Application. All rights reserved.</p>
       </footer>
     </div>
